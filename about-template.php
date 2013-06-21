@@ -19,27 +19,27 @@ get_header(); ?>
 	<div class="wrap clearfix">
 		<div id="mission">
 			<h2>OUR MISSION</h2>
-			<p>Code for America helps governments work better for everyone with the people and the power of the web. Through our <a href="/fellows">Fellowship</a>, <a href="/accelerator">Accelerator</a>, and <a href="/brigade">Brigade</a>, we're building a network of cities, citizens, community groups, and startups, all equally committed to reimagining government for the 21st century.</p>
+			<p>Code for America envisions a government that can work by the people, for the people, in the 21st century.  We help cities transform through open and effective use of data and information, meaningful public engagement and architectures of participation that scale to meet the changing needs of communities. The CfA network demonstrates that efficient, transparent, and responsive government is possible when we the people offer not just our voices, but also our hands.</p>
 		</div>
         <?php include 'fellow_carousel.php'; ?>		
 	</div>
 </div>
 <div class="wrap clearfix" id="whh">
 	<div class="box">
-		<h3>Who we are</h3>
-		<p>Code for America is a new non-profit, and a new kind of organization. Our team is made up of web geeks, city experts, and technology industry leaders. We are building a network of civic leaders and organizations who believe there is a better way of doing things and want to make a difference.</p>
-		<p align="right"><a href="/who-we-are" class="more">Our team</a></p> 
+	<h3>what we do</h3>
+		<p>Through the <a href="http://codeforamerica.org/fellows">Fellowship</a>, <a href="http://brigade.codeforamerica.org">Brigade</a>, <a href="http://codeforamerica.org/accelerator/">Accelerator</a>, <a href="http://peernetwork.in/">Peer Network</a> and <a href="http://codeforamerica.org/international/">Code for All</a>, Code for America aims to fix the relationships between citizens and government while simultaneously changing the culture of government itself.  We help governments restructure to create low-risk settings for innovation, engage citizens in creating better apps and services and support ongoing competition in the government tech marketplace.</p>
+		<p align="right"><a href="/programs" class="more">Our Programs</a></p> 
 	</div>
 	<div class="box">
-		<h3>what we do</h3>
-		<p>We make it easy and attractive for the web generation to give back through our Fellowship, which connects  technologists with cities to work together to innovate; our Accelerator, which will support disruptive civic startups; and our Brigade, which helps local, community groups reuse civic software.</p>
-		<p align="right"><a href="/programs" class="more">Our Programs</a></p> 
+		<h3>Our Impact</h3>
+		<p>Within government, we build a low-risk setting for innovation by encouraging departments like Boston’s <a href="http://www.cityofboston.gov/newurbanmechanics/ ">Urban Mechanics Office</a>, positions like Philadelphia’s <a href="http://technical.ly/philly/2011/08/11/adel-ebeid-meet-the-new-cto-of-the-city-of-philadelphia/">Chief Innovation Officer</a> and open policies, datasets and practices. In the community, we engage citizens in building <a href="http://codeforamerica.org/apps">apps</a>, <a href="http://brigade.codeforamerica.org ">knowledge hubs</a> and <a href="http://codeforamerica.org/2012/07/12/a-city-partnership-extraordinaire/ ">local workshops</a> with the intent to scale globally. And in the civic tech marketplace, we support <a href="http://codeforamerica.org/accelerator ">civic startups</a>, <a href="http://codeforamerica.org/fellows/">public/private funding collaborations</a> and <a href="http://codeforamerica.org/2013/05/07/towards-a-procurement-strategy/">open procurement</a>.</p>
+		<p align="right"><a href="http://annual.codeforamerica.org/" class="more">Our Annual Report</a></p> 
 		
 	</div>
 	<div class="box">
-			<h3>how we make a difference</h3>
-			<p>Code for America helps governments become more connected, lean, and participatory through new opportunities for public service -- both inside and outside government -- so we're not only making a direct impact everyday, but also creating the relationships and network for lasting change.</p>
-			<p align="right"><a href="/projects" class="more">Our Projects</a></p> 
+			<h3>A 21st Century Government</h3>
+			<p>In the wake of Hurricane Katrina the City of New Orleans had 35,000 abandoned properties and no system to track their restoration. An original blight tracking plan was estimated to be a 3-year multimillion dollar project. In just a few months, a team of Code for America fellows launched <a href="http://codeforamerica.org/?cfa_app=blightstatus">BlightStatus</a> offering residents up-to-date property information and saving the city millions. Says Deputy Mayor Andy Kopplin, " "This is what innovation and change in government looks like."</p>
+			<p align="right"><a href="/projects" class="more">Changing the Culture</a></p> 
 			
 	<!--	<h3>How we’re funded</h3>
 		<p>Code for America is generously supported by leaders in philanthropy and technology. Their support helps make our work connecting city government and web talent possible.</p>
