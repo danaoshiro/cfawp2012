@@ -24,3 +24,7 @@ Contact
 [@dthompson](https://github.com/dthompson),
 [@ellereider](https://github.com/ellereider)
 or [@migurski](https://github.com/migurski).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danaoshiro/cfawp2012/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
